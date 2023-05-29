@@ -10,6 +10,7 @@
 body {
   font-family: "Roboto", sans-serif;
   background-color: #ffffff;
+  color: #434455;
 }
 
 .link {
@@ -45,6 +46,10 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--dark-color);
+}
+
+.contacts {
+  font-style: normal;
 }
 
 .contacts-menu-link {
@@ -113,6 +118,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #434455;
 }
 
 /* services */
@@ -163,6 +169,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #434455;
 }
 
 /* footer */
