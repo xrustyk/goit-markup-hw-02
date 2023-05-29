@@ -9,7 +9,7 @@
 
 body {
   font-family: "Roboto", sans-serif;
-  color: var(--body-color);
+  background-color: #ffffff;
 }
 
 .link {
@@ -48,6 +48,7 @@ body {
 }
 
 .contacts-menu-link {
+  font-style: normal;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -136,6 +137,10 @@ body {
   background-color: var(--light-color);
 }
 
+.team-item {
+  background-color: #ffffff;
+}
+
 .team-title {
   font-weight: 700;
   font-size: 36px;
@@ -213,4 +218,5 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #434455;
 }
